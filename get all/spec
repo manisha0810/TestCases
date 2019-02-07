@@ -1,0 +1,27 @@
+# Specification
+
+## Overview
+
+| | |
+|------|-------|
+| **Use Case Name** | Read Digital Contact by ID |
+| **Description** | Calling this endpoint exposes the actual customer record (e.g. first name, last name, email address etc. stored in the database) | 
+| **Prerequisites** | none | 
+| **Base URL** | (standard HTTP) |
+| **Endpoint** | /{customerId} |
+| **Method** | GET |
+| **Body** | none | 
+
+## Responses
+
+### Success Response : (only Json)
+```
+HTTP Code : 200
+Content : The customer record is successfully exposed.
+
+Must contain the UID and all customer details for verification by the user.
+```
+
+### Error Response
+
+see https://github.wdf.sap.corp/c4reuse/doc/feature/error_codes
