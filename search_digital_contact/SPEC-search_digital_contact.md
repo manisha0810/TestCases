@@ -24,4 +24,4 @@ Must contain the UID and all customer details for verification by the user.
 
 ### Error Response
 
-see https://github.wdf.sap.corp/c4reuse/doc/tree/master/feature/error_codes 
+see https://github.wdf.sap.corp/c4reuse/doc/blob/master/feature/error_codes/SPEC-error_codes.md
