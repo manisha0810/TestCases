@@ -5,10 +5,10 @@
 | | |
 |------|-------|
 | **Use Case Name** | Search Digital Contact |
-| **Description** | Calling this endpoint list all records on the basis of search parameters (e.g. BP id, email Id, phone number, address etc. ) stored in the databse.  |
+| **Description** | Calling this endpoint list all records on the basis of search parameters (e.g. BP id, email Id, phone number, address etc. ) stored in the database.  |
 | **Prerequisites** | none | 
 | **Base URL** | http://35.195.178.198/v1/customers |
-| **Endpoint** | {customer?} |
+| **Endpoint** | /{customer?} |
 | **Method** | GET |
 | **Body** | none | 
 
