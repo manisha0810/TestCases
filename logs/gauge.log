@@ -1,0 +1,8 @@
+24-02-2021 10:42:58.849 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\i505471\Demo Gauge\TestCases-2\.gauge\screenshots
+24-02-2021 10:42:58.882 [Gauge] [DEBUG] Plugin ts is already installed.
+24-02-2021 10:42:58.885 [Gauge] [DEBUG] Plugin html-report is already installed.
+24-02-2021 10:42:58.908 [Gauge] [DEBUG] Plugin xml-report is already installed.
+24-02-2021 10:42:58.910 [Gauge] [DEBUG] Parsing started.
+24-02-2021 10:42:58.910 [Gauge] [DEBUG] Started concepts parsing.
+24-02-2021 10:42:58.933 [Gauge] [DEBUG] 0 concepts parsing completed.
+24-02-2021 10:42:58.933 [Gauge] [ERROR] Specs directory specs/upload.spec does not exists.

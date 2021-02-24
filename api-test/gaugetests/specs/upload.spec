@@ -11,7 +11,7 @@ The following are global steps that will always be executed before every single 
 When a POST request is made to a url with valid image file, a new image is uploaded successfully. 
 
 * Create request to "/Stage/image"
-* Send "POST" request with file from <file:gaugetests/images/POST.jpg>
+* Send "POST" request with file from <file:images/POST.jpg>
 * Assert that response status code is "201"
 * Assert that response body is not empty
 
@@ -21,6 +21,6 @@ When a POST request is made to a url with valid image file, a new image is uploa
 When a POST request is made to a url with valid image file, a new image is uploaded successfully. 
 
 * Create request to "/Stge/image"
-* Send "POST" request with file from <file:gaugetests/images/POST.jpg>
+* Send "POST" request with file from <file:images/POST.jpg>
 * Assert that response status code is "400"
 * Assert that response body is not empty
